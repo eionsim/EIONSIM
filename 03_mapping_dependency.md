@@ -1,4 +1,5 @@
 graph TD
+
     subgraph Modul_0_Genesis
         CDL[Core Directive Layer] -->|UDR Vector| UDR[Unified Directive Resonator]
         UDR -->|Blueprint| M1_CAG[Character Assignment Gateway: M1]
